@@ -31,3 +31,15 @@ print("Valor:", numero_inteiro)
 print("Tipo:", type(numero_inteiro))
 
 print("----------------------------")
+
+# EXEMPLO 02 - NUMERO DECIMAL
+
+# Criamos uma variável chamada numero_decimal
+numero_decimal = 3.14
+
+# Mostramos o valor
+print("Valor:", numero_decimal)
+
+print("Tipo:", type(numero_decimal))
+
+print("----------------------------")
