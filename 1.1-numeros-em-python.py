@@ -43,3 +43,21 @@ print("Valor:", numero_decimal)
 print("Tipo:", type(numero_decimal))
 
 print("----------------------------")
+
+# EXEMPLO 03 - NUMEROS COMPLEXOS
+# UM NUMERO COMPLEXO POSSUI DUAS PARTES:
+# PARTE REAL (NUMERO NORMAL)
+# PARTE IMAGINÁRIA (MULTIPLICADA POR J)
+
+# ESTRUTURA GERAL:
+# NUMERO = A + BJ
+
+# A = PARTE REAL
+# B = PARTE IMAGINARIA
+# J = UNIDADE IMAGINARIA
+
+numero_complexo = 2 + 3j
+
+print("Valor:", numero_complexo)
+
+print("Tipo", type(numero_complexo))
